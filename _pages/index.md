@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Towards Socially Intelligent Robots In Real World Applications: Challenges And Intricacies (SIRRW)
+title: "Towards Socially Intelligent Robots In Real World Applications: Challenges And Intricacies (SIRRW)"
 permalink: /
 hidden: true
 header:
