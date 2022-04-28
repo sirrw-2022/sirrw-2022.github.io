@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/softbank.jpg
 excerpt: >
-  </br></br></br></br></br></br></br>
+  <br /><br /><br /><br /><br /><br /><br /><br />
 ---
 
 
