@@ -9,6 +9,9 @@ excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 ---
+
+<h1>Full-day Workshop for RoMan 2022</h1>
+
 <p>Being proactive, trustworthy and dealing with uncertainty are the current challenges faced by social robots in real world applications. 
 To be seamlessly integrated in human populated environments, robots will be expected to have intelligent social capabilities on top of their 
 physical abilities. Human-Centered Artificial Intelligence has a critical role in providing robots with such capabilities by addressing some 

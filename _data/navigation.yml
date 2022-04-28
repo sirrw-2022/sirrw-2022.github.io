@@ -1,9 +1,13 @@
 main:
   - title: "Home"
     url: /
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Program"
+    url: /program/
+  - title: "Call for Contributions"
+    url: /call-for-contributions/
+  - title: "Important Dates"
+    url: /important-dates/
+  - title: "Invited Speakers"
+    url: /invited-speakers/
+  - title: "Organizers"
+    url: /organizers/
