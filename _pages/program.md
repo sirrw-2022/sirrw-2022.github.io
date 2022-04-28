@@ -1,12 +1,11 @@
 ---
 layout: splash
+title: "Schedule"
 permalink: /program/
 hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/softbank.jpg
-excerpt: >
-  <h1>Schedule</h1>
 ---
 
 
