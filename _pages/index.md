@@ -1,13 +1,13 @@
 ---
 layout: splash
+title: Towards Socially Intelligent Robots In Real World Applications: Challenges And Intricacies (SIRRW)
 permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/neurons_robot-768x330.jpeg
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2022)<br /><br /><br />
 ---
 
 # Full-day Workshop for RoMan 2022
