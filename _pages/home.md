@@ -10,7 +10,7 @@ excerpt: >
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 ---
 
-<h2>Full-day Workshop for RoMan 2022</h2>
+# Full-day Workshop for RoMan 2022
 
 <p>Being proactive, trustworthy and dealing with uncertainty are the current challenges faced by social robots in real world applications. 
 To be seamlessly integrated in human populated environments, robots will be expected to have intelligent social capabilities on top of their 
