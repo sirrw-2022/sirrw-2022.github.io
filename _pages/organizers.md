@@ -14,7 +14,7 @@ excerpt: >
     <div style="display: inline-block;padding: 20px;">
         <div style="max-width: 400px;">
 			<div style="width: 400px;height: 400px;overflow: hidden;position: relative;">
-				<img src="/assets/images/melanie-jouaiti.JPG" class="rounded" alt="Dr. Melanie Jouaiti" style="width: 400px;">
+				<img src="/assets/images/melanie-jouaiti.JPG" class="rounded" alt="Dr. Melanie Jouaiti" style="width: 400px;position: absolute;left: 0;top: -100px;">
 			</div>
 			<h3><a href="https://members.loria.fr/MJouaiti/">Dr. Melanie Jouaiti</a></h3>
 			<p style="text-align: justify;">Melanie Jouaiti got her PhD at Loria, Nancy, France where she worked on developing bio-inspired controllers to achieve motor coordination in robots and applied her work to robot-assisted therapy with children with ASD. After a PostDoc at Loria, Nancy, France, she joined the SIRRL lab at the University of Waterloo. Her interests include robot-assisted therapy, assistive robotics, and machine learning.</p>
@@ -23,9 +23,9 @@ excerpt: >
 	<div style="display: inline-block;padding: 20px;">
 		<div style="max-width: 400px;">
 			<div style="width: 400px;height: 400px;overflow: hidden;position: relative;">
-				<img src="/assets/images/Sera_B.jpg" class="rounded" alt="Sera Buyukgoz" style="width: 400px;">
+				<img src="/assets/images/Sera_B.jpg" class="rounded" alt="Dr. Sera Buyukgoz" style="width: 400px;position: absolute;left: 0;top: -75px;">
 			</div>
-			<h3><a href="https://www.animatas.eu/network/esr/sera/ ">Sera Buyukgoz</a></h3>
+			<h3><a href="https://www.animatas.eu/network/esr/sera/ ">Dr. Sera Buyukgoz</a></h3>
 			<p style="text-align: justify;">Sera Buyukgoz is a robotics researcher at SoftBank Robotics and PhD student in ISIR at Sorbonne Université. She is a marie-curie fellow as a part of the european union horizon 2020 ITN project called ANIMATAS. Her current research focuses on generating proactive robot behaviors that aimed to assist human.</p>
 		</div>
 	</div>
