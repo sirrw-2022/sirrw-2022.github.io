@@ -4,7 +4,7 @@ title: "Towards Socially Intelligent Robots In Real World Applications: Challeng
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "rgba(94, 97, 108,0.4)"
   overlay_image: /assets/images/neurons_robot-768x330.jpeg
 excerpt: >
   31st IEEE International Conference on Robot and Human Interactive Communication
