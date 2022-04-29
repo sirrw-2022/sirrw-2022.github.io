@@ -60,14 +60,14 @@ feature_row2:
 <div class="text-center">
     <div style="display: inline-block;padding: 20px;">
         <div style="max-width: 400px;">
-			<img src="/assets/images/agnieszka-wykowska.jpg" class="rounded" alt="Prof. Alan R. Wagner" style="max-width: 400px;">
+			<img src="/assets/images/WAGNER-ALAN.jpg" class="rounded" alt="Prof. Alan R. Wagner" style="max-width: 400px;">
 			<h3><a href="https://rockethics.psu.edu/people/alan-r-wagner/">Prof. Alan R. Wagner</a></h3>
 			<p>Assistant Professor at Pennsylvania State University</p>
         </div>
 	</div>
 	<div style="display: inline-block;padding: 20px;">
 		<div style="max-width: 400px;">
-			<img src="/assets/images/Dorsa-Sadigh.jpeg" class="rounded" alt="Prof. Tony Belpaeme" style="max-width: 400px;">
+			<img src="/assets/images/Tony-Belpaeme.jpg" class="rounded" alt="Prof. Tony Belpaeme" style="max-width: 400px;">
 			<h3><a href="https://tonybelpaeme.me/">Prof. Tony Belpaeme</a></h3>
 			<p>Professor at Ghent University and Plymouth University</p>
 		</div>
