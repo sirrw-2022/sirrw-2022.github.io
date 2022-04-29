@@ -12,7 +12,7 @@ excerpt: >
 ---
 
 # Full-day Workshop for RoMan 2022
-
+---
 <p>Being proactive, trustworthy and dealing with uncertainty are the current challenges faced by social robots in real world applications. 
 To be seamlessly integrated in human populated environments, robots will be expected to have intelligent social capabilities on top of their 
 physical abilities. Human-Centered Artificial Intelligence has a critical role in providing robots with such capabilities by addressing some 
@@ -35,3 +35,14 @@ human’s needs. </p>
 <p>Furthermore, the workshop will provide a venue to discuss the limitations of the current approaches and future directions and challenges towards 
 creating intelligent robot social behaviours. To ensure the diversity of topics in the workshop, we will have keynote speakers that relate to different 
 topics: HRI, AI&HRI and cognitive robotics; and different backgrounds: academia and industry.</p>
+
+---
+
+# Important Dates
+---
+| Dates                                       |                                            |
+| ------------------------------------------- | ------------------------------------------ |
+| **June 30th**     | Paper submission deadline |
+| **August 10th**   | Acceptance notification   |
+| **August 20th**   | Camera ready submission   |
+| **September 2nd** | Workshop                  |
