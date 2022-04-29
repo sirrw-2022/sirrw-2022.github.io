@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/invited-speakers.jpg
 excerpt: >
-  <br /><br /><br /><br /><br /><br /><br />
+  <br /><br /><br />
 feature_row:
   - image_path: /assets/images/agnieszka-wykowska.jpg
     alt: "customizable"
@@ -40,5 +40,5 @@ feature_row2:
     btn_label: "Learn more"       
 ---
 
-{% include feature_row type="center" %}
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row %}
+{% include feature_row id="feature_row2" %}
