@@ -26,7 +26,7 @@ excerpt: >
 				<img src="/assets/images/Dorsa-Sadigh.jpeg" class="rounded" alt="Prof. Dorsa Sadigh" style="width: 400px;">
 			</div>
 			<h3><a href="https://dorsa.fyi/">Prof. Dorsa Sadigh</a></h3>
-			<p>Assistant Professor at Stanford University</p>
+			<p>Assistant Professor at Stanford University, CA</p>
 		</div>
 	</div>
 </div>
