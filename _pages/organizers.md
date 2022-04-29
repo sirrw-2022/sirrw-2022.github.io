@@ -62,4 +62,14 @@ excerpt: >
 			<p style="text-align: justify;">Kerstin Dautenhahn, IEEE Fellow is Canada 150 Research Chair in Intelligent Robotics at University of Waterloo in Ontario, Canada. She has a joint appointment with the Departments of Electrical and Computer Engineering and Systems Design Engineering and is cross-appointed with the David R. Cheriton School of Computer Science at University of Waterloo. In Waterloo she directs the Social and Intelligent Robotics Laboratory. Her research areas are social robotics, human-robot interaction, assistive robotics, cognitive and developmental robotics.</p>
 		</div>
 	</div>
+	<div style="display: inline-block;padding: 20px;vertical-align: top;">
+		<div style="max-width: 400px;">
+			<div style="width: 400px;height: 400px;overflow: hidden;position: relative;">
+				<img src="/assets/images/steven-lawrence.jpg" class="rounded" alt="Steven Lawrence" style="width: 400px;">
+			</div>
+			<h3><a href="https://uwaterloo.ca/social-intelligent-robotics-research-lab/people-profiles/steven-lawrence">Steven Lawrence</a></h3>
+			<p style="text-align: justify;">Steven is a MMath student in the David R. Cheriton School of Computer Science program at UWaterloo. 
+			His work aims at understanding how subjective norms may be used for adaptable behaviour in assistive robots.</p>
+		</div>
+	</div>
 </div>
