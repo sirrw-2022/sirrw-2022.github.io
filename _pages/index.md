@@ -7,9 +7,9 @@ header:
   overlay_color: "rgba(94, 97, 108,0.4)"
   overlay_image: /assets/images/neurons_robot-768x330.jpeg
 excerpt: >
-  August 24th<br />
+  August 24th<br /><br />
   31st IEEE International Conference on Robot and Human Interactive Communication
-  <small><a href="http://www.smile.unina.it/ro-man2022/">(RO-MAN 2022)</a></small><br /><br />
+  <small><a href="http://www.smile.unina.it/ro-man2022/">(RO-MAN 2022)</a></small><br />
 ---
 
 # Full-day Online Workshop for RoMan 2022
