@@ -11,7 +11,7 @@ excerpt: >
 ---
 
 <div class="text-center">
-    <div style="display: inline-block;padding: 20px;">
+    <div style="display: inline-block;padding: 20px;vertical-align: top;">
         <div style="max-width: 400px;">
 			<div style="width: 400px;height: 400px;overflow: hidden;position: relative;">
 				<img src="/assets/images/melanie-jouaiti.JPG" class="rounded" alt="Dr. Melanie Jouaiti" style="width: 400px;position: absolute;left: 0;top: -100px;">
@@ -20,7 +20,7 @@ excerpt: >
 			<p style="text-align: justify;">Melanie Jouaiti got her PhD at Loria, Nancy, France where she worked on developing bio-inspired controllers to achieve motor coordination in robots and applied her work to robot-assisted therapy with children with ASD. After a PostDoc at Loria, Nancy, France, she joined the SIRRL lab at the University of Waterloo. Her interests include robot-assisted therapy, assistive robotics, and machine learning.</p>
         </div>
 	</div>
-	<div style="display: inline-block;padding: 20px;">
+	<div style="display: inline-block;padding: 20px;vertical-align: top;">
 		<div style="max-width: 400px;">
 			<div style="width: 400px;height: 400px;overflow: hidden;position: relative;">
 				<img src="/assets/images/Sera_B.jpg" class="rounded" alt="Dr. Sera Buyukgoz" style="width: 400px;position: absolute;left: 0;top: -75px;">
@@ -32,7 +32,7 @@ excerpt: >
 </div>
 
 <div class="text-center">
-	<div style="display: inline-block;padding: 20px;">
+	<div style="display: inline-block;padding: 20px;vertical-align: top;">
 		<div style="max-width: 400px;">
 			<div style="width: 400px;height: 400px;overflow: hidden;position: relative;">
 				<img src="/assets/images/Eloise-Zehnder.jpg" class="rounded" alt="Eloïse Zehnder" style="width: 400px;">
@@ -41,7 +41,7 @@ excerpt: >
 			<p style="text-align: justify;">Eloïse Zehnder is a psychology PhD student at the University of Lorraine and Inria, in France. Her work aims at understanding the links between acceptance and trust towards companion robots for lonely people.</p>
 		</div>
 	</div>
-    <div style="display: inline-block;padding: 20px;">
+    <div style="display: inline-block;padding: 20px;vertical-align: top;">
         <div style="max-width: 400px;">
 			<div style="width: 400px;height: 400px;overflow: hidden;position: relative;">
 				<img src="/assets/images/Amir.jpg" class="rounded" alt="Dr. Amir Aly" style="width: 400px;">
@@ -53,7 +53,7 @@ excerpt: >
 </div>
 
 <div class="text-center">
-	<div style="display: inline-block;padding: 20px;">
+	<div style="display: inline-block;padding: 20px;vertical-align: top;">
 		<div style="max-width: 400px;">
 			<div style="width: 400px;height: 400px;overflow: hidden;position: relative;">
 				<img src="/assets/images/kdautenh.png" class="rounded" alt="Prof. Kerstin Dautenhahn" style="width: 400px;left: 0;top: -75px;position: absolute;">
