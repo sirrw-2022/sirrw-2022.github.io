@@ -43,8 +43,9 @@ feature_row2:
 {% include feature_row type="center" %}
 {% include feature_row id="feature_row2" type="center" %}
 
-<figure>
-    <img src="/assets/images/agnieszka-wykowska.jpg"
-         alt="Albuquerque, New Mexico">
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
-</figure>
+
+<div class="text-center">
+  <img src="/assets/images/agnieszka-wykowska.jpg" class="rounded" alt="Albuquerque, New Mexico">
+  <img src="/assets/images/agnieszka-wykowska.jpg" class="rounded" alt="Albuquerque, New Mexico">
+  <img src="/assets/images/agnieszka-wykowska.jpg" class="rounded" alt="Albuquerque, New Mexico">
+</div>
