@@ -8,10 +8,11 @@ header:
   overlay_image: /assets/images/neurons_robot-768x330.jpeg
 excerpt: >
   31st IEEE International Conference on Robot and Human Interactive Communication
-  <small><a href="http://www.smile.unina.it/ro-man2022/">(RO-MAN 2022)</a></small><br /><br /><br />
+  <small><a href="http://www.smile.unina.it/ro-man2022/">(RO-MAN 2022)</a></small><br />
+  August 24th<br /><br />
 ---
 
-# Full-day Workshop for RoMan 2022
+# Full-day Online Workshop for RoMan 2022
 
 ---
 
