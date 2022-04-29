@@ -51,3 +51,14 @@ excerpt: >
 		</div>
 	</div>
 </div>
+
+<div class="text-center">
+    <div style="display: inline-block;padding: 20px;">
+        <div style="max-width: 400px;">
+			<div style="max-width: 400px;max-height: 400px;overflow: hidden;">
+				<img src="/assets/images/bio-photo.jpg" class="rounded" alt="TBA" style="width: 400px;">
+			</div>
+			<h3><a href="javascript:void(0);">TBA</a></h3>
+        </div>
+	</div>
+</div>
