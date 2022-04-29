@@ -10,35 +10,35 @@ excerpt: >
   <br /><br /><br />
 feature_row:
   - image_path: /assets/images/agnieszka-wykowska.jpg
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    alt: "Prof. Agnieszka Wykowska"
+    title: "Prof. Agnieszka Wykowska"
+    excerpt: "Professor at Instituto Italiano di Tecnologia (IIT), Italy"
+    url: "https://www.iit.it/people/agnieszka-wykowska"
+    btn_class: "btn"
+    btn_label: "More"
   - image_path: /assets/images/Dorsa-Sadigh.jpeg
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    alt: "Prof. Dorsa Sadigh "
+    title: "Prof. Dorsa Sadigh "
+    excerpt: "Assistant Professor at Stanford University"
+    url: "https://dorsa.fyi/"
+    btn_class: "btn"
+    btn_label: "More"
 feature_row2:
   - image_path: /assets/images/WAGNER-ALAN.jpg
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"  
+    alt: "Alan Wagner"
+    title: "Alan Wagner"
+    excerpt: "Assistant Professor at Pennsylvania State University"
+    url: "https://rockethics.psu.edu/people/alan-r-wagner/"
+    btn_class: "btn"
+    btn_label: "More"  
   - image_path: /assets/images/Tony-Belpaeme.jpg
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"       
+    alt: "Tony Belpaeme"
+    title: "Tony Belpaeme"
+    excerpt: "Professor at Ghent University and Plymouth University"
+    url: "https://tonybelpaeme.me/"
+    btn_class: "btn"
+    btn_label: "More"       
 ---
 
-{% include feature_row %}
-{% include feature_row id="feature_row2" %}
+{% include feature_row type="center" %}
+{% include feature_row id="feature_row2" type="center" %}
