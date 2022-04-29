@@ -23,6 +23,7 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+feature_row2:
   - image_path: /assets/images/WAGNER-ALAN.jpg
     alt: "100% free"
     title: "100% free"
@@ -39,4 +40,5 @@ feature_row:
     btn_label: "Learn more"       
 ---
 
-{% include feature_row %}
+{% include feature_row type="center" %}
+{% include feature_row id="feature_row2" type="center" %}
