@@ -14,8 +14,7 @@ excerpt: >
 
 We encourage participants to submit their research work related to the field of Artificial 
 Intelligence and Human-robot interaction, including but not limited to the following topics:
-
-Relevant topics will include (but not restricted to):
+---
 - Decision making under uncertainty
 - Modeling human behaviour
 - Communicative robot behavior generation
