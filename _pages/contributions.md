@@ -17,6 +17,15 @@ Intelligence and Human-robot interaction, including but not limited to the follo
 
 ---
 
-- test 1
-- test 2
-- test 3 
+- Decision making under uncertainty
+- Modeling human behaviour
+- Communicative robot behavior generation
+- Automatic adaptation and personalization of robot behavior
+- Human-interactive robot learning
+- Planning methods for interactive robot behaviors
+- Perception for HRI
+- Cognitive architectures for interactive robots
+- Robot curiosity
+- Safety/Trust-critical applications for HRI
+- Human-robot collaboration
+- Reliability and explainability of robot decisions/actions
