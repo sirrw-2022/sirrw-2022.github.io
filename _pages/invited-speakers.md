@@ -11,7 +11,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/agnieszka-wykowska.jpg
     alt: "Prof. Agnieszka Wykowska"
-    title: "Prof. Agnieszka Wykowska"
+    title: ["Prof. Agnieszka Wykowska"]["https://www.iit.it/people/agnieszka-wykowska"]
     excerpt: "Professor at Instituto Italiano di Tecnologia (IIT), Italy"
     url: "https://www.iit.it/people/agnieszka-wykowska"
     btn_class: "btn"
