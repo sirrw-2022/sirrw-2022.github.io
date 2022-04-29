@@ -4,7 +4,7 @@ title: "Call for Contributions"
 permalink: /call-for-contributions/
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "rgba(94, 97, 108,0.4)"
   overlay_image: /assets/images/contributions.jpg
 excerpt: >
   <br /><br /><br /><br /><br /><br /><br />

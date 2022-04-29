@@ -4,7 +4,7 @@ title: "Invited Speakers"
 permalink: /invited-speakers/
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "rgba(94, 97, 108,0.4)"
   overlay_image: /assets/images/invited-speakers.jpg
 excerpt: >
   <br /><br /><br />     
