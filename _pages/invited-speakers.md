@@ -11,7 +11,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/agnieszka-wykowska.jpg
     alt: "Prof. Agnieszka Wykowska"
-    title: [Prof. Agnieszka Wykowska](https://www.iit.it/people/agnieszka-wykowska)
+    title: "Prof. Agnieszka Wykowska"
     excerpt: "Professor at Instituto Italiano di Tecnologia (IIT), Italy"
     url: "https://www.iit.it/people/agnieszka-wykowska"
     btn_class: "btn"
@@ -42,3 +42,9 @@ feature_row2:
 
 {% include feature_row type="center" %}
 {% include feature_row id="feature_row2" type="center" %}
+
+<figure>
+    <img src="/assets/images/agnieszka-wykowska.jpg"
+         alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
