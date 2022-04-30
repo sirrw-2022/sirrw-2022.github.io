@@ -51,3 +51,7 @@ topics: HRI, AI&HRI and cognitive robotics; and different backgrounds: academia 
 | **August 10th**   | Acceptance notification   |
 | **August 20th**   | Camera ready submission   |
 | **August 24th**   | Workshop                  |
+
+---
+
+<p>For any enquiry regarding the workshop, please contact <a href="mailto:mjouaiti@uwaterloo.ca">mjouaiti@uwaterloo.ca</a></p>
