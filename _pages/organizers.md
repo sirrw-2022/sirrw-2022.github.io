@@ -17,7 +17,7 @@ excerpt: >
 				<img src="/assets/images/melanie-jouaiti.JPG" class="rounded" alt="Dr. Melanie Jouaiti" style="width: 400px;position: absolute;left: 0;top: -100px;">
 			</div>
 			<h3 style="text-align: left;">
-				<a href="https://members.loria.fr/MJouaiti/" style="">Dr. Melanie Jouaiti</a>
+				<a href="https://sites.google.com/view/mjouaiti" style="">Dr. Melanie Jouaiti</a>
 			</h3>
 			<p style="margin-top: 0;margin-bottom: 10px;text-align: left;">
 				<strong>Organizer</strong>
@@ -35,33 +35,6 @@ excerpt: >
 				<strong>Co-organizer</strong>
 			</p>
 			<p style="text-align: justify;">Sera Buyukgoz is a robotics researcher at SoftBank Robotics and PhD student in ISIR at Sorbonne Université. She is a marie-curie fellow as a part of the european union horizon 2020 ITN project called ANIMATAS. Her current research focuses on generating proactive robot behaviors that aimed to assist human.</p>
-		</div>
-	</div>
-</div>
-
-<div class="text-center">
-    <div style="display: inline-block;padding: 20px;vertical-align: top;">
-        <div style="max-width: 400px;">
-			<div style="width: 400px;height: 400px;overflow: hidden;position: relative;">
-				<img src="/assets/images/Amir.jpg" class="rounded" alt="Dr. Amir Aly" style="width: 400px;">
-			</div>
-			<h3 style="text-align: left;"><a href="https://sites.google.com/a/em.ci.ritsumei.ac.jp/amir-aly/projects">Dr. Amir Aly</a></h3>
-			<p style="margin-top: 0;margin-bottom: 10px;text-align: left;">
-				<strong>Co-organizer</strong>
-			</p>
-			<p style="text-align: justify;">Amir Aly is a lecturer (assistant professor) in Artificial Intelligence and robotics at the University of Plymouth UK. Prior to his position he worked in different countries as a research scientist such as Japan and France. He has wide research interests and activities in human-robot interaction, cognitive and developmental robotics, and AI. He is also serving as an associate editor for prestigious journals (IEEE TCDS) and conferences (IROS), and an organizer for several others.</p>
-        </div>
-	</div>
-	<div style="display: inline-block;padding: 20px;vertical-align: top;">
-		<div style="max-width: 400px;">
-			<div style="width: 400px;height: 400px;overflow: hidden;position: relative;">
-				<img src="/assets/images/kdautenh.png" class="rounded" alt="Prof. Kerstin Dautenhahn" style="width: 400px;left: 0;top: -75px;position: absolute;">
-			</div>
-			<h3 style="text-align: left;"><a href="https://uwaterloo.ca/electrical-computer-engineering/profile/kdautenh">Prof. Kerstin Dautenhahn</a></h3>
-			<p style="margin-top: 0;margin-bottom: 10px;text-align: left;">
-				<strong>Co-organizer</strong>
-			</p>
-			<p style="text-align: justify;">Kerstin Dautenhahn, IEEE Fellow is Canada 150 Research Chair in Intelligent Robotics at University of Waterloo in Ontario, Canada. She has a joint appointment with the Departments of Electrical and Computer Engineering and Systems Design Engineering and is cross-appointed with the David R. Cheriton School of Computer Science at University of Waterloo. In Waterloo she directs the Social and Intelligent Robotics Laboratory. Her research areas are social robotics, human-robot interaction, assistive robotics, cognitive and developmental robotics.</p>
 		</div>
 	</div>
 </div>
@@ -90,6 +63,33 @@ excerpt: >
 			</p>
 			<p style="text-align: justify;">Steven is a MMath student in the David R. Cheriton School of Computer Science program at UWaterloo. 
 			His work aims at understanding how subjective norms may be used for adaptable behaviour in assistive robots.</p>
+		</div>
+	</div>
+</div>
+
+<div class="text-center">
+    <div style="display: inline-block;padding: 20px;vertical-align: top;">
+        <div style="max-width: 400px;">
+			<div style="width: 400px;height: 400px;overflow: hidden;position: relative;">
+				<img src="/assets/images/Amir.jpg" class="rounded" alt="Dr. Amir Aly" style="width: 400px;">
+			</div>
+			<h3 style="text-align: left;"><a href="https://sites.google.com/a/em.ci.ritsumei.ac.jp/amir-aly/projects">Dr. Amir Aly</a></h3>
+			<p style="margin-top: 0;margin-bottom: 10px;text-align: left;">
+				<strong>Co-organizer</strong>
+			</p>
+			<p style="text-align: justify;">Amir Aly is a lecturer (assistant professor) in Artificial Intelligence and robotics at the University of Plymouth UK. Prior to his position he worked in different countries as a research scientist such as Japan and France. He has wide research interests and activities in human-robot interaction, cognitive and developmental robotics, and AI. He is also serving as an associate editor for prestigious journals (IEEE TCDS) and conferences (IROS), and an organizer for several others.</p>
+        </div>
+	</div>
+	<div style="display: inline-block;padding: 20px;vertical-align: top;">
+		<div style="max-width: 400px;">
+			<div style="width: 400px;height: 400px;overflow: hidden;position: relative;">
+				<img src="/assets/images/kdautenh.png" class="rounded" alt="Prof. Kerstin Dautenhahn" style="width: 400px;left: 0;top: -75px;position: absolute;">
+			</div>
+			<h3 style="text-align: left;"><a href="https://uwaterloo.ca/electrical-computer-engineering/profile/kdautenh">Prof. Kerstin Dautenhahn</a></h3>
+			<p style="margin-top: 0;margin-bottom: 10px;text-align: left;">
+				<strong>Co-organizer</strong>
+			</p>
+			<p style="text-align: justify;">Kerstin Dautenhahn, IEEE Fellow is Canada 150 Research Chair in Intelligent Robotics at University of Waterloo in Ontario, Canada. She has a joint appointment with the Departments of Electrical and Computer Engineering and Systems Design Engineering and is cross-appointed with the David R. Cheriton School of Computer Science at University of Waterloo. In Waterloo she directs the Social and Intelligent Robotics Laboratory. Her research areas are social robotics, human-robot interaction, assistive robotics, cognitive and developmental robotics.</p>
 		</div>
 	</div>
 </div>
