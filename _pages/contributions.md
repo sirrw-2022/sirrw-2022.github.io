@@ -10,6 +10,12 @@ excerpt: >
   <br /><br /><br />
 ---
 
+# Paper Submission Guidelines
+
+The submission website will open middle of June. “Authors should submit their papers electronically in 
+PDF format via EasyChair. The manuscript should be of 2 or 4 pages in IEEE double column format excluding 
+references.
+
 # Topic of Interests
 
 We encourage participants to submit their research work related to the field of Artificial 
