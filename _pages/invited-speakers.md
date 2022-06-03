@@ -26,7 +26,7 @@ excerpt: >
 				<img src="/assets/images/danbohus.jpg" class="rounded" alt="Dr. Dan Bohus" style="width: 400px;">
 			</div>
 			<h3><a href="http://www.danbohus.com/">Dr. Dan Bohus</a></h3>
-			<p>Senior Principal Researcher, Microsoft</p>
+			<p>Senior Principal Researcher, <br />Microsoft</p>
         </div>
 	</div>
 </div>
