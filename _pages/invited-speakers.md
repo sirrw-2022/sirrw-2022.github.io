@@ -21,13 +21,13 @@ excerpt: >
         </div>
 	</div>
 	<div style="display: inline-block;padding: 20px;">
-		<div style="max-width: 400px;">
+        <div style="max-width: 400px;">
 			<div style="max-width: 400px;max-height: 400px;overflow: hidden;">
-				<img src="/assets/images/Dorsa-Sadigh.jpeg" class="rounded" alt="Prof. Dorsa Sadigh" style="width: 400px;">
+				<img src="/assets/images/danbohus.jpg" class="rounded" alt="Dr. Dan Bohus" style="width: 400px;">
 			</div>
-			<h3><a href="https://dorsa.fyi/">Prof. Dorsa Sadigh</a></h3>
-			<p>Assistant Professor at Stanford University, CA <br> <strong>TBC</strong></p>
-		</div>
+			<h3><a href="http://www.danbohus.com/">Dr. Dan Bohus</a></h3>
+			<p>Senior Principal Researcher, Microsoft</p>
+        </div>
 	</div>
 </div>
 
@@ -49,17 +49,5 @@ excerpt: >
 			<h3><a href="https://tonybelpaeme.me/">Prof. Tony Belpaeme</a></h3>
 			<p>Professor at Ghent University and Plymouth University</p>
 		</div>
-	</div>
-</div>
-
-<div class="text-center">
-    <div style="display: inline-block;padding: 20px;">
-        <div style="max-width: 400px;">
-			<div style="max-width: 400px;max-height: 400px;overflow: hidden;">
-				<img src="/assets/images/danbohus.jpg" class="rounded" alt="Dr. Dan Bohus" style="width: 400px;">
-			</div>
-			<h3><a href="http://www.danbohus.com/">Dr. Dan Bohus</a></h3>
-			<p>Senior Principal Researcher, Microsoft</p>
-        </div>
 	</div>
 </div>
