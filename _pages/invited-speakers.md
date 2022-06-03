@@ -17,7 +17,7 @@ excerpt: >
 				<img src="/assets/images/agnieszka-wykowska.jpg" class="rounded" alt="Prof. Agnieszka Wykowska" style="width: 400px;">
 			</div>
 			<h3><a href="https://www.iit.it/people/agnieszka-wykowska">Prof. Agnieszka Wykowska</a></h3>
-			<p>Professor at Instituto Italiano di Tecnologia (IIT), Italy <br> <strong>TBC</strong></p>
+			<p>Professor at Instituto Italiano di Tecnologia (IIT), Italy</p>
         </div>
 	</div>
 	<div style="display: inline-block;padding: 20px;">
