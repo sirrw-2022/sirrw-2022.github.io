@@ -12,7 +12,7 @@ excerpt: >
 
 # Paper Submission Guidelines
 
-The submission website will open middle of June. Authors should submit their papers electronically in 
+The submission website is [here](https://easychair.org/conferences/?conf=sirrw2022). Authors should submit their papers electronically in 
 PDF format via EasyChair. The manuscript should be of 2 or 4 pages in [IEEE double column format](https://ras.papercept.net/conferences/support/support.php) excluding 
 references.
 
