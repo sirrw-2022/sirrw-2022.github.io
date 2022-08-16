@@ -48,8 +48,7 @@ topics: HRI, AI&HRI and cognitive robotics; and different backgrounds: academia 
 | Dates                                       |                                            |
 | ------------------------------------------- | ------------------------------------------ |
 | **July 31st**     | Paper submission deadline |
-| **August 15th**   | Acceptance notification   |
-| **August 22th**   | Camera ready submission   |
+| **August 18th**   | Acceptance notification   |
 | **August 24th**   | Workshop                  |
 
 ---
