@@ -17,7 +17,7 @@ excerpt: >
 				<img src="/assets/images/agnieszka-wykowska.jpg" class="rounded" alt="Prof. Agnieszka Wykowska" style="width: 400px;">
 			</div>
 			<h3><a href="https://www.iit.it/people/agnieszka-wykowska">Prof. Agnieszka Wykowska</a></h3>
-			<p>Professor at Instituto Italiano di Tecnologia (IIT), Italy</p>
+			<p>Professor at Instituto Italiano di Tecnologia (IIT)</p>
         </div>
 	</div>
 	<div style="display: inline-block;padding: 20px;">
@@ -27,6 +27,7 @@ excerpt: >
 			</div>
 			<h3><a href="http://www.danbohus.com/">Dr. Dan Bohus</a></h3>
 			<p>Senior Principal Researcher, <br />Microsoft</p>
+            <p> Physically Situated Language Interaction: Challenges and Opportunities </p>
         </div>
 	</div>
 </div>
