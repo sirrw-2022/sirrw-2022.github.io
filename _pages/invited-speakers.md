@@ -41,7 +41,7 @@ excerpt: >
 			</div>
 			<h3><a href="https://rockethics.psu.edu/people/alan-r-wagner/">Prof. Alan R. Wagner</a></h3>
 			<p>Assistant Professor at Pennsylvania State University</p>
-            <p>*Social Robots to the Rescue! Creating Robots to Help with Evacuation in The Real World*</p>
+            *Social Robots to the Rescue! Creating Robots to Help with Evacuation in The Real World*
         </div>
 	</div>
 	<div style="display: inline-block;padding: 20px;">
