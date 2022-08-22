@@ -18,6 +18,7 @@ excerpt: >
 			</div>
 			<h3><a href="https://www.iit.it/people/agnieszka-wykowska">Prof. Agnieszka Wykowska</a></h3>
 			<p>Professor at Instituto Italiano di Tecnologia (IIT)</p>
+            <p> *From Neuroscience to Social Robots – What Have We Learned About The Human Brain in Human-Robot Interactions* </p>
         </div>
 	</div>
 	<div style="display: inline-block;padding: 20px;">
@@ -27,7 +28,7 @@ excerpt: >
 			</div>
 			<h3><a href="http://www.danbohus.com/">Dr. Dan Bohus</a></h3>
 			<p>Senior Principal Researcher, <br />Microsoft</p>
-            <p> Physically Situated Language Interaction: Challenges and Opportunities </p>
+            <p> *Physically Situated Language Interaction: Challenges and Opportunities* </p>
         </div>
 	</div>
 </div>
@@ -40,6 +41,7 @@ excerpt: >
 			</div>
 			<h3><a href="https://rockethics.psu.edu/people/alan-r-wagner/">Prof. Alan R. Wagner</a></h3>
 			<p>Assistant Professor at Pennsylvania State University</p>
+            <p>*Social Robots to the Rescue! Creating Robots to Help with Evacuation in The Real World* </p>
         </div>
 	</div>
 	<div style="display: inline-block;padding: 20px;">
@@ -49,6 +51,7 @@ excerpt: >
 			</div>
 			<h3><a href="https://tonybelpaeme.me/">Prof. Tony Belpaeme</a></h3>
 			<p>Professor at Ghent University and Plymouth University</p>
+            <p>*Social Robots: The Ultimate Dream and The Ultimate Challenge* </p>
 		</div>
 	</div>
 </div>
