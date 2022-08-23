@@ -18,7 +18,7 @@ excerpt: >
 			</div>
 			<h3><a href="https://www.iit.it/people/agnieszka-wykowska">Prof. Agnieszka Wykowska</a></h3>
 			<p>Professor at Instituto Italiano di Tecnologia (IIT)</p>
-            <p>*From Neuroscience to Social Robots – What Have We Learned About The Human Brain in Human-Robot Interactions*</p>
+            <i>From Neuroscience to Social Robots – What Have We Learned About The Human Brain in Human-Robot Interactions</i>
         </div>
 	</div>
 	<div style="display: inline-block;padding: 20px;">
@@ -28,7 +28,7 @@ excerpt: >
 			</div>
 			<h3><a href="http://www.danbohus.com/">Dr. Dan Bohus</a></h3>
 			<p>Senior Principal Researcher, <br />Microsoft</p>
-            <p>_Physically Situated Language Interaction: Challenges and Opportunities_</p>
+            <i>Physically Situated Language Interaction: Challenges and Opportunities</i>
         </div>
 	</div>
 </div>
@@ -41,7 +41,7 @@ excerpt: >
 			</div>
 			<h3><a href="https://rockethics.psu.edu/people/alan-r-wagner/">Prof. Alan R. Wagner</a></h3>
 			<p>Assistant Professor at Pennsylvania State University</p>
-            *Social Robots to the Rescue! Creating Robots to Help with Evacuation in The Real World*
+            <i>Social Robots to the Rescue! Creating Robots to Help with Evacuation in The Real World</i>
         </div>
 	</div>
 	<div style="display: inline-block;padding: 20px;">
@@ -51,7 +51,7 @@ excerpt: >
 			</div>
 			<h3><a href="https://tonybelpaeme.me/">Prof. Tony Belpaeme</a></h3>
 			<p>Professor at Ghent University and Plymouth University</p>
-            _Social Robots: The Ultimate Dream and The Ultimate Challenge_
+            <i>Social Robots: The Ultimate Dream and The Ultimate Challenge</i>
 		</div>
 	</div>
 </div>
