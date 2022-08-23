@@ -28,7 +28,7 @@ excerpt: >
 			</div>
 			<h3><a href="http://www.danbohus.com/">Dr. Dan Bohus</a></h3>
 			<p>Senior Principal Researcher, <br />Microsoft</p>
-            <p>*Physically Situated Language Interaction: Challenges and Opportunities*</p>
+            <p>_Physically Situated Language Interaction: Challenges and Opportunities_</p>
         </div>
 	</div>
 </div>
@@ -51,7 +51,7 @@ excerpt: >
 			</div>
 			<h3><a href="https://tonybelpaeme.me/">Prof. Tony Belpaeme</a></h3>
 			<p>Professor at Ghent University and Plymouth University</p>
-            <p>*Social Robots: The Ultimate Dream and The Ultimate Challenge*</p>
+            _Social Robots: The Ultimate Dream and The Ultimate Challenge_
 		</div>
 	</div>
 </div>
