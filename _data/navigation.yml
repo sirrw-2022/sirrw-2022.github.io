@@ -9,3 +9,5 @@ main:
     url: /invited-speakers/
   - title: "Organizers"
     url: /organizers/
+  - title: "Proceedings"
+    url: /proceedings/
